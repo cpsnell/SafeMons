@@ -1,0 +1,2 @@
+# SafeMon
+SafeMon Crypto
